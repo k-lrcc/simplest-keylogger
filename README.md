@@ -1,5 +1,4 @@
 # simplest-keylogger
-this keylogger is only for educational purposes or self monitoring.
 
 At the moment it only works on Windows.
 
@@ -14,3 +13,9 @@ windows+r:
 regedit 
 (Equipo\HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Run)
 in this folder make a string value named php and modify it to the path "C:\Users\Public\Documents\Proyectos"
+
+this keylogger is only for educational purposes or self monitoring.
+
+Please note, this repo is for educational purposes only. No contributors, major or minor, are to fault for any actions done by this program.
+
+Feel free to contribute to fix any problems, or to submit an issue.
